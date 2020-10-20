@@ -1,4 +1,4 @@
-# COMP3412-CloudComputing
+# COMP4312-CloudComputing
 
 
-This code is intended for COMP-3412 Cloud Computing
+This code is intended for COMP-4312 Cloud Computing
